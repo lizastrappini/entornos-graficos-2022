@@ -1,1 +1,1 @@
-# entornos-graficos-2022
+Practica de la materia Entornos Graficos
