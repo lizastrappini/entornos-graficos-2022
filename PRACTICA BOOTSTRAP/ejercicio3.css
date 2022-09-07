@@ -1,0 +1,39 @@
+#contenedor1{
+    background-color: rgb(166 125 167);
+    border: 3px solid white;
+}
+
+#contenedor2{
+    background-color: rgb(245 218 209);
+    border: 3px solid white;
+}
+
+#contenedor3{
+    background-color: rgb(104 204 131);
+}
+
+
+#contenedor4,#contenedor5,#contenedor6,#contenedor7{
+    background-color: rgb(157 141 152);
+    border: 3px solid white;
+}
+
+#contenedor8{
+    background-color: rgb(124 158 203); 
+    height:150px;
+    overflow: scroll;
+}
+
+#contenedor9{
+    background-color: rgb(124 158 203); 
+    height:150px;
+}
+
+img{
+    max-height: 100px;
+    max-width: 200px;
+}
+
+#demo{
+    height:130px;
+}
